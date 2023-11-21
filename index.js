@@ -17,7 +17,7 @@ app.use(morgan('dev'))
 app.use(cors(
     {
         origin :  ["http://localhost:3000",
-            "https://ethnus_mern_project.onrender.com"
+            "https://ethnus_mern_project1.onrender.com"
     ]
     }
 ))
